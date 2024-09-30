@@ -1,8 +1,13 @@
-# Responsive yapılı bir web site
+# Car Rental
 
-# HTML ve CSS teknolijileriyle yapıldı.
+## Teknolojiler
 
+- HTML
+- CSS
 
+## Ozellikler
+
+- Responsive bir yapıda.
 
 # GİF
 
